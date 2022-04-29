@@ -2,3 +2,6 @@
 Tools for gamecube/wii projects
 
 ## Install
+- ./autogen.sh
+- ./configure
+- make
